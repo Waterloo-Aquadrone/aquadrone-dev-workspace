@@ -1,5 +1,5 @@
 # Setting up virtual machine
-Download latest Ubuntu 20.04.1 LTS Desktop image ISO file from: https://releases.ubuntu.com/20.04/
+Download latest Ubuntu 20.04.4 LTS Desktop image ISO file from: https://releases.ubuntu.com/20.04/
 
 Create New VM in VirtualBox with following settings:
 - Linux
